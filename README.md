@@ -1,1 +1,1 @@
-# AONyanAR
+GeospatialARアプリのiosバージョンです。
